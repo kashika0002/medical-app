@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, View, SafeAreaView, StatusBar, ScrollView } from 'react-native';
+import { StyleSheet, View, SafeAreaView, StatusBar, ScrollView, Text } from 'react-native';
 import CustomerForm from '../components/CustomerForm';
 import CustomerList from '../components/CustomerList';
 
